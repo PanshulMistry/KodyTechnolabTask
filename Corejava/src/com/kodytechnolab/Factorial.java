@@ -1,7 +1,8 @@
 package com.kodytechnolab;
 import java.util.Scanner;
 /*
- * Write a program to find the factorial of a given number. 
+ * Write a program to find the factorial of a given number.
+ *  
  */
 public class Factorial {
 
