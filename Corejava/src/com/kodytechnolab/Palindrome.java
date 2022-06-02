@@ -1,7 +1,10 @@
 package com.kodytechnolab;
 import java.util.Scanner;
-/*
- * Write a program to find palindrome of a string. 
+/**
+ * 
+ * @Objective Write a program to find palindrome of a string.
+ * @Developer Panshul
+ * @Date 02-Jun-2022
  */
 public class Palindrome{
 

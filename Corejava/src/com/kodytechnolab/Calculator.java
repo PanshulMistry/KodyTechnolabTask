@@ -1,18 +1,24 @@
 package com.kodytechnolab;
+
 import java.util.*;
-/*
- * Write a program to create a calculator and while choosing a choice the user has to
- * enter a operator to do a operation on the numbers. 
+/**
+ * 
+ * @Objective Write a program to create a calculator and while choosing a choice the user has to
+ 			  enter a operator to do a operation on the numbers. 
+ * @Developer Panshul Mistry
+ * @Date 02-Jun-2022
  */
 public class Calculator {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int number1, number2, result = 0;
-		//Taking input from the user for number 1
+		int number1;
+		int number2;
+		int result = 0;
+		// Taking input from the user for number 1
 		System.out.println("Enter your First Number:");
 		number1 = sc.nextInt();
-		//Taking input from the user for number 2
+		// Taking input from the user for number 2
 		System.out.println("Enter your Second Number:");
 		number2 = sc.nextInt();
 		String choice = "";
@@ -21,7 +27,7 @@ public class Calculator {
 			System.out.println("1)+\n2)-\n3)*\n4)/");
 			System.out.println("Enter choice operator for operation or 'q' to exit:");
 			choice = sc.next();
-			//If user enters the choice as q,the loop will break
+			// If user enters the choice as q,the loop will break
 			if (choice == "q") {
 				break;
 			}

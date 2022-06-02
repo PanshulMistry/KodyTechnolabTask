@@ -1,7 +1,10 @@
 package com.kodytechnolab;
 import java.util.Scanner;
-/*
- *Write a program to Find Armstrong of a Number. 
+/**
+ * 
+ * @Objective Write a program to Find that the number is Armstrong Number or not.
+ * @Developer Panshul Mistry
+ * @Date 02-Jun-2022
  */
 public class Armstrong {
 	public static void main(String[] args) {
@@ -16,7 +19,9 @@ public class Armstrong {
 		int number1 = number;
 		int count = 0;
 		int no2 = number;
+		
 		//Counting the number of digits in the number
+		
 		while (no2 > 0) {
 			remainder = no2 % 10;
 			count++;

@@ -1,8 +1,11 @@
 package com.kodytechnolab;
 import java.util.Scanner;
-/*
- * Write a program to find that the number is a Keith number or not.
- */ 
+ /**
+ * 
+ * @Objective Write a program to find that the number is a Keith number or not. 
+ * @Developer Panshul
+ * @Date 02-Jun-2022
+ */
 public class KeithNumber {
 
 	public static void main(String[] args) {

@@ -1,7 +1,10 @@
 package com.kodytechnolab;
 import java.util.Scanner;
-/*
- * Write a program to find whether the number is a tech number or not 
+/**
+ * 
+ * @Objective Write a program to find whether the number is a tech number or not 
+ * @Developer Panshul
+ * @Date 02-Jun-2022
  */
 public class TechNumber {
 

@@ -1,7 +1,9 @@
 package com.kodytechnolab;
 import java.util.Scanner;
-/*
- * Given an integer, n, perform the following conditional actions:
+
+/**
+ * 
+ * @Objective Given an integer, n, perform the following conditional actions:
  If n  is odd, print Weird
  If n  is even and in the inclusive range of  2 to 5 , print Not Weird
  If n  is even and in the inclusive range of  6 to 20 , print Weird
@@ -18,8 +20,10 @@ Sample Input
 
 Sample Output 
 Weird
+ * @Developer Panshul
+ * @Date 02-Jun-2022
  */
-public class WeirdOrNotWeird {
+public class WeirdNumber {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

@@ -1,6 +1,9 @@
 package com.kodytechnolab;
-/*
- * Write a program to find prime numbers between 1 to 100. 
+/**
+ * 
+ * @Objective Write a program to find prime numbers between 1 to 100.
+ * @Developer Panshul
+ * @Date 02-Jun-2022
  */
 public class Prime {
 
