@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * 
  * @Objective Write a program to find that the number is a Neon number or not.
- * @Developer Panshul
+ * @Developer Panshul Mistry
  */
 public class NeonNumber {
 
