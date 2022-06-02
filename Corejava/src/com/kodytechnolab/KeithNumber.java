@@ -4,7 +4,6 @@ import java.util.Scanner;
  * 
  * @Objective Write a program to find that the number is a Keith number or not. 
  * @Developer Panshul
- * @Date 02-Jun-2022
  */
 public class KeithNumber {
 

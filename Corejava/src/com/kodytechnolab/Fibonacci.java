@@ -3,7 +3,6 @@ package com.kodytechnolab;
  * 
  * @Objective Write a program to print the Fibonacci Series form 1 to 100.
  * @Developer Panshul
- * @Date 02-Jun-2022
  */
 public class Fibonacci{
 	public static void main(String[] args) {

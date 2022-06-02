@@ -6,7 +6,6 @@ import java.util.*;
  * @Objective Write a program to create a calculator and while choosing a choice the user has to
  			  enter a operator to do a operation on the numbers. 
  * @Developer Panshul Mistry
- * @Date 02-Jun-2022
  */
 public class Calculator {
 

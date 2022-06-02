@@ -1,16 +1,10 @@
 package com.kodytechnolab;
 
 import java.util.Scanner;
-
-/*
- * 
- *  
- */
 /**
  * 
  * @Objective Write a program to find the factorial of a given number. 
  * @Developer Panshul Mistry
- * @Date 02-Jun-2022
  */
 public class Factorial {
 

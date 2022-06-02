@@ -16,8 +16,7 @@ package com.kodytechnolab.Pattern;
    2 3 4 5 6 7 
   1 2 3 4 5 6 7 
  
- * @Developer Panshul
- * @Date 02-Jun-2022
+ * @Developer Panshul Mistry
  */
 public class SandGlassPattern {
 

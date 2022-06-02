@@ -3,8 +3,7 @@ import java.util.Scanner;
 /**
  * 
  * @Objective Write a program to find palindrome of a string.
- * @Developer Panshul
- * @Date 02-Jun-2022
+ * @Developer Panshul Mistry
  */
 public class Palindrome{
 

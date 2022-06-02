@@ -4,7 +4,6 @@ import java.util.Scanner;
  * 
  * @Objective Write a program to Find that the number is Armstrong Number or not.
  * @Developer Panshul Mistry
- * @Date 02-Jun-2022
  */
 public class Armstrong {
 	public static void main(String[] args) {

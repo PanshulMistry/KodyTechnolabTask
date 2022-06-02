@@ -19,8 +19,7 @@ import java.util.Scanner;
 			  Reya is the best player in eye game
 			  in inthe
 			  Hello Ab
- * @Developer Panshul
- * @Date 02-Jun-2022
+ * @Developer Panshul Mistry
  */
 public class RemoveDuplicateWord {
 	public static void main(String[] args) {

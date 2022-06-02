@@ -3,8 +3,7 @@ import java.util.Scanner;
 /**
  * 
  * @Objective Write a program to find whether the number is a spy number or not.
- * @Developer Panshul
- * @Date 02-Jun-2022
+ * @Developer Panshul Mistry
  */
 public class SpyNumber {
 

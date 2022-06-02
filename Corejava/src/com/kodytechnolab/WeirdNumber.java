@@ -20,8 +20,7 @@ Sample Input
 
 Sample Output 
 Weird
- * @Developer Panshul
- * @Date 02-Jun-2022
+ * @Developer Panshul Mistry
  */
 public class WeirdNumber {
 

@@ -14,8 +14,7 @@ F         F
     B B 
      A 
  
- * @Developer Panshul
- * @Date 02-Jun-2022
+ * @Developer Panshul Mistry
  */
 public class HoloDiamondPattern {
 	public static void main(String[] args) {
